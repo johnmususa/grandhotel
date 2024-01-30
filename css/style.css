@@ -219,7 +219,7 @@ html{
 	width: 100%;
 	flex-grow: 1;
 	background-image: linear-gradient(to bottom,rgba(100,50 , 35, 0.3),
-	rgba(0,0,0,0.9)),url(../images2/banners4.jpg);
+	rgba(0,0,0,0.9)),url(../images/banners4.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
